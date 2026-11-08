@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Телефон",
+        "price": 15000,
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "name": "Ноутбук",
+        "price": 50000,
+        "inStock": false
+    },
+    {
+        "id": 3,
+        "name": "Наушники",
+        "price": 3000,
+        "inStock": true
+    },
+    {
+        "id": 4,
+        "name": "Планшет",
+        "price": 20000,
+        "inStock": true
+    },
+    {
+        "id": 5,
+        "name": "Часы",
+        "price": 5000,
+        "inStock": false
+    }
+]
